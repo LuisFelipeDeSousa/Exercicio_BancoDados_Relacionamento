@@ -260,16 +260,3 @@ INSERT INTO herois (nome, dificuldade, funcao) VALUES
 ('WINSTON',2,'TANQUE'),
 ('ZENYATTA',3,'SUPORTE');
 */
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
